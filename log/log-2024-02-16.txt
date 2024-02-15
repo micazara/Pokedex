@@ -1,0 +1,3 @@
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
