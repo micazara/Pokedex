@@ -1,0 +1,35 @@
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.contenedor_pokemon {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Cinco columnas de igual ancho */
+    gap: 30px; /* Espacio entre las celdas */
+}
+
+.contenedor_pokemon > div {
+    padding: 10px; /* Espaciado interno */
+    border: 2px solid gainsboro;
+}
+
+.contenedor_pokemon > div:hover {
+    transform: scale(1.02); /* Escalar un 5% al pasar el mouse */
+    border: 2px solid #2196F3;
+}
+
+.contenedor_pokemon img {
+    max-width: 100%; /* Para que las imágenes no excedan el ancho de su contenedor */
+}
+
+.caja_individual{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
