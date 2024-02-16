@@ -5,24 +5,24 @@
         <input type="text" name="campoABuscar" id="campoABuscar">
 
         <label for="busqueda"></label>
-        <input type="submit" name="busqueda">
+        <input type="submit" name="busqueda" value="Enviar">
     </form>
 </div>
-<div class="contenedor_pokemon">
+<div class="contenedor_pokemon" style="padding: 50px">
     {{#pokemon}}
     <div class="">
         <div class="caja_individual">
-            <p>ID: </p>
+            <p class="campo_del_pokemon">ID: </p>
             {{id}}
         </div>
 
         <div class="caja_individual">
-            <p>Nombre: </p>
+            <p class="campo_del_pokemon">Nombre: </p>
             {{nombre}}
         </div>
 
         <div class="caja_individual">
-            <p>Tipo</p>
+            <p class="campo_del_pokemon">Tipo </p>
             <img src='{{tipo}}'>
         </div>
 

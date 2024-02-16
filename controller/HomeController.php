@@ -17,11 +17,15 @@ class HomeController
     }
 
     public function buscar(){
+        // escucho el boton de submit
         if (isset($_GET["busqueda"])) {
-            $campoABuscar = $_GET["campoABuscar"];
-            $data["encontrado"] = $this->homeModel->buscar($campoABuscar);
-            var_dump($data["encontrado"]);
-            $this->renderer->render("home", $data);
+            if (isset($_GET["campoABuscar"])) {
+                // agarro lo que se puso en el input
+                $campoABuscar = $_GET["campoABuscar"];
+                $data["pokemon"] = $this->homeModel->buscar($campoABuscar);
+                $this->renderer->render("home", $data);
+            }
+            
         } else {
            echo "error";
         }

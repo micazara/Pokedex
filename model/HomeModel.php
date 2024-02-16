@@ -11,7 +11,7 @@ class HomeModel{
     }
 
     public function buscar($campoABuscar){
-        return $this->database->query("SELECT * FROM POKEMON WHERE id LIKE '%$campoABuscar%' OR nombre LIKE '%$campoABuscar%' OR tipo LIKE '%$campoABuscar%'");
+        return $this->database->query("SELECT * FROM POKEMON WHERE id = '$campoABuscar' OR nombre LIKE '%$campoABuscar%' OR tipo LIKE '%$campoABuscar%'");
     }
     
 }
