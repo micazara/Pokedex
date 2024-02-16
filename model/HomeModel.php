@@ -9,4 +9,9 @@ class HomeModel{
     public function getPokemons(){
         return $this->database->query('SELECT * FROM POKEMON');
     }
+
+    public function buscar($campoABuscar){
+        return $this->database->query("SELECT * FROM POKEMON WHERE id LIKE '%$campoABuscar%' OR nombre LIKE '%$campoABuscar%' OR tipo LIKE '%$campoABuscar%'");
+    }
+    
 }

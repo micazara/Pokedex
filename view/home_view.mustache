@@ -1,6 +1,14 @@
+<div>
+    <form action="/home/buscar" method="get">
+
+        <label for="campoABuscar">Ingresá id, nombre o tipo de un pokemon: </label>
+        <input type="text" name="campoABuscar" id="campoABuscar">
+
+        <label for="busqueda"></label>
+        <input type="submit" name="busqueda">
+    </form>
+</div>
 <div class="contenedor_pokemon">
-
-
     {{#pokemon}}
     <div class="">
         <div class="caja_individual">

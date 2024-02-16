@@ -1,3 +1,24 @@
 [2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
 [2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
 [2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON WHERE id like %$campoABuscar% or nombre like %$campoABuscar% or tipo like %$campoABuscar%
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON WHERE id LIKE '%ivysaur%' OR nombre LIKE '%ivysaur%' OR tipo LIKE '%ivysaur%'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON WHERE id LIKE '%Ivysaur%' OR nombre LIKE '%Ivysaur%' OR tipo LIKE '%Ivysaur%'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON WHERE id LIKE '%ivysaur%' OR nombre LIKE '%ivysaur%' OR tipo LIKE '%ivysaur%'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON WHERE id LIKE '%ivysaur%' OR nombre LIKE '%ivysaur%' OR tipo LIKE '%ivysaur%'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON WHERE id LIKE '%Ivysaur%' OR nombre LIKE '%Ivysaur%' OR tipo LIKE '%Ivysaur%'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON WHERE id LIKE '%5%' OR nombre LIKE '%5%' OR tipo LIKE '%5%'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON WHERE id LIKE '%5%' OR nombre LIKE '%5%' OR tipo LIKE '%5%'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON WHERE id LIKE '%5%' OR nombre LIKE '%5%' OR tipo LIKE '%5%'

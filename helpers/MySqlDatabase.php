@@ -34,4 +34,6 @@ class MySqlDatabase
         Logger::info('Ejecutando query: ' . $sql);
         mysqli_query($this->connection, $sql);
     }
+
+    
 }
