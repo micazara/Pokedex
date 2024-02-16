@@ -21,6 +21,10 @@ class MySqlDatabase
         mysqli_close($this->connection);
     }
 
+    public function getConnection(){
+        return $this->connection;
+    }
+
     // ejecuta consultas SQL que retornan un conjunto de resultados, como SELECT.
     public function query($sql)
     {
@@ -30,10 +34,11 @@ class MySqlDatabase
     }
 
     public function execute($sql)
-    {
+    { 
         Logger::info('Ejecutando query: ' . $sql);
         mysqli_query($this->connection, $sql);
     }
+
 
     
 }
