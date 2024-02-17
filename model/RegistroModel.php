@@ -14,7 +14,7 @@ class RegistroModel
         $conexion = $this->database->getConnection();
         $nombreUserEscaped = $conexion->real_escape_string($nombreUser);
         $pwEscaped = $conexion->real_escape_string($pw);
-        $sql = "INSERT INTO usuario(nombreUser, pw) VALUES ('$nombreUserEscaped', '$pwEscaped')";
+        $sql = "INSERT INTO usuario(nombreUser, pw, rol) VALUES ('$nombreUserEscaped', '$pwEscaped', 'c')";
         $resultado = $this->database->execute($sql);
         return $resultado;
     }

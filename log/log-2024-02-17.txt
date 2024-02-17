@@ -166,3 +166,20 @@
 [2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
 [2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'holi'
 [2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'frankito'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'frankito'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'frankito'
+[2024-02-17][INFO]Ejecutando query: INSERT INTO usuario(nombreUser, pw, a) VALUES ('frankito', 'fm2!', 'c')
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'frankito'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'frankito'
+[2024-02-17][INFO]Ejecutando query: INSERT INTO usuario(nombreUser, pw, rol) VALUES ('frankito', 'ilum2!', 'c')
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
