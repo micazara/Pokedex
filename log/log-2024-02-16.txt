@@ -245,3 +245,52 @@
 [2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
 [2024-02-16][INFO]Ejecutando query: SELECT * FROM USUARIO WHERE nombreUser = 'admin'
 [2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM USUARIO WHERE nombreUser = 'franco'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM USUARIO WHERE nombreUser = 'mica'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM USUARIO WHERE nombreUser = 'mica'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM USUARIO WHERE nombreUser = 'mica'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM USUARIO WHERE nombreUser = 'mica'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM USUARIO WHERE nombreUser = 'mica'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM USUARIO WHERE nombreUser = 'mica'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM USUARIO WHERE nombreUser = 'mica'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM USUARIO WHERE nombreUser = 'mica'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM USUARIO WHERE nombreUser = 'mica'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM USUARIO WHERE nombreUser = 'mica'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM USUARIO WHERE nombreUser = 'mica'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM USUARIO WHERE nombreUser = 'mica'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM USUARIO WHERE nombreUser = 'mica'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM USUARIO WHERE nombreUser = 'mica'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM USUARIO WHERE nombreUser = 'mica'
+[2024-02-16][INFO]Ejecutando query: SELECT * FROM POKEMON

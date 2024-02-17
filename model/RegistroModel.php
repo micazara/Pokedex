@@ -11,27 +11,38 @@ class RegistroModel
 
     public function registrarNuevoUsuario($nombreUser, $pw)
     {
+        $conexion = $this->database->getConnection();
+        $nombreUserEscaped = $conexion->real_escape_string($nombreUser);
+        $pwEscaped = $conexion->real_escape_string($pw);
+        $sql = "INSERT INTO usuario(nombreUser, pw) VALUES ('$nombreUserEscaped', '$pwEscaped')";
+        $resultado = $this->database->execute($sql);
+        return $resultado;
+    }
 
-        $resultado = $this->database->query("SELECT * FROM USUARIO WHERE nombreUser = '$nombreUser'");
-        if (!$resultado) {
-            // si esta vacio es porque no se encontró un usuario en la tabla con ese user, por ende se puede crear un nombreUser con ese nombreUser ingresado
-            // si no existe procedo a verificar la contraseña
-            if (preg_match($this->patronContrasenia, $pw)) {
-                $conexion = $this->database->getConnection();
-                $nombreUserEscaped = $conexion->real_escape_string($nombreUser);
-                $pwEscaped = $conexion->real_escape_string($pw);
-                $sql = "INSERT INTO usuario(nombreUser, pw) VALUES ('$nombreUserEscaped', '$pwEscaped')";
-                $this->database->execute($sql);
-                return true;
-            } else {
-                return false;
-            }
+    public function buscarUsuario($nombreUser)
+    {
+        // Construir la consulta SQL para buscar el usuario por su nombre
+        $sql = "SELECT * FROM usuario WHERE nombreUser = '$nombreUser'";
+
+        // Ejecutar la consulta SQL
+        $resultado = $this->database->query($sql);
+
+        // Verificar si se encontró algún resultado
+        if (!empty($resultado)) {
+            // Si se encontraron resultados, el usuario existe
+            return true;
         } else {
+            // Si no se encontraron resultados, el usuario no existe
             return false;
-            // si ya existe ese user en la tabla devuelvo false y en controller un mensaje de error
         }
-        
+    }
 
+
+    public function validarContrasenia($pw)
+    {
+        if (preg_match($this->patronContrasenia, $pw)) {
+            return true;
+        }
     }
 
 
