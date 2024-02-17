@@ -31,3 +31,138 @@
 [2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'frankito'
 [2024-02-17][INFO]Ejecutando query: INSERT INTO usuario(nombreUser, pw) VALUES ('frankito', 'mica123!')
 [2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'mica'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'mica'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'mica'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'mica'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'mica'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'mica'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'mica'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'franco'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'mica'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'franco'
+[2024-02-17][INFO]Ejecutando query: INSERT INTO usuario(nombreUser, pw) VALUES ('franco', 'mica123!')
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'franco'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'franco'
+[2024-02-17][INFO]Ejecutando query: INSERT INTO usuario(nombreUser, pw) VALUES ('franco', 'mica123!')
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'admin'
+[2024-02-17][INFO]Ejecutando query: INSERT INTO usuario(nombreUser, pw) VALUES ('admin', 'mica123!')
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'admin'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'compu'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'mica'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'mica'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'compu'
+[2024-02-17][INFO]Ejecutando query: INSERT INTO usuario(nombreUser, pw) VALUES ('compu', 'compu12!')
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'pepe'
+[2024-02-17][INFO]Ejecutando query: INSERT INTO usuario(nombreUser, pw) VALUES ('pepe', 'pepe3!')
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'holi'
+[2024-02-17][INFO]Ejecutando query: INSERT INTO usuario(nombreUser, pw) VALUES ('holi', '23holi!')
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'pepe'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'pepe'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'pepe'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'holi'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'mica'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'holi'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'holi'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'jaja'
+[2024-02-17][INFO]Ejecutando query: INSERT INTO usuario(nombreUser, pw) VALUES ('jaja', 'jaja23!')
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'jaja'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'jaja'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'holi'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'admin'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'chauu'
+[2024-02-17][INFO]Ejecutando query: INSERT INTO usuario(nombreUser, pw) VALUES ('chauu', '123!k')
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'mica'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'mica'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'holi'
+[2024-02-17][INFO]Ejecutando query: SELECT * FROM POKEMON

@@ -1,6 +1,6 @@
 <section class="formRegistro">
 <h3>Creá tu usuario para buscar pokemones en la pokedex</h3>
-<form action="/registro/registrarNuevoUsuario" method="post" >
+<form action="/registro/procesar" method="post" >
     <label for="nombreUser" class="w3-text-blue">Usuario:</label>
     <input type="text" name="nombreUser" id="nombreUser" class="w3-input w3-border">
 
@@ -9,6 +9,14 @@
 
     <input type="submit" value="Enviar" name="enviar">
 </form>
+
+{{#msjOk}}
+<div class="w3-panel w3-green w3-animate-bottom w3-small">
+<p>{{msjOk}}</p>
+<a href="/iniciarSesion/iniciarSesion">Iniciar sesión</a>
+</div>
+{{/msjOk}}
+
 
 {{#error}}
 <div class="w3-panel w3-red w3-animate-bottom w3-small">
