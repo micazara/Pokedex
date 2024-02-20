@@ -34,10 +34,12 @@ class IniciarSesionController
                             // Redirigir según el rol
                             if ($fila["rol"] === 'c') {
                                 $data["sesionOk"] = "Bienvenido, " . $_SESSION["nombreUser"];
+                                $data["pokemon"] = $this->iniciarSesionModel->getPokemons();
                                 $this->renderer->render("homeLogueadoUsuarioComun", $data);
 
                             } elseif ($fila["rol"] === 'a') {
-                                $data["sesionOk"] = "Bienvenido, " . $_SESSION["nombreUser"];
+                                $data["sesionOk"] = "Bienvenido administrador, " . $_SESSION["nombreUser"];
+                                $data["pokemon"] = $this->iniciarSesionModel->getPokemons();
                                 $this->renderer->render("homeLogueadoAdmin", $data);
                             }
                         }
@@ -67,5 +69,7 @@ class IniciarSesionController
         $_SESSION["nombreUser"] = $nombreUser;
         $_SESSION["pw"] = $pw;
     }
+
+
 
 }

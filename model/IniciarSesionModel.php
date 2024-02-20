@@ -15,5 +15,8 @@ class IniciarSesionModel
 
     }
 
-
+    public function getPokemons()
+    {
+        return $this->database->query('SELECT * FROM POKEMON');
+    }
 }

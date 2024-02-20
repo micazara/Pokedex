@@ -2,6 +2,7 @@
 include_once("controller/HomeController.php");
 include_once("controller/RegistroController.php");
 include_once("controller/IniciarSesionController.php");
+include_once("controller/AdminController.php");
 
 include_once("helpers/MustacheRenderer.php");
 include_once("helpers/MySqlDatabase.php");
@@ -11,6 +12,8 @@ include_once('helpers/Logger.php');
 include_once("model/HomeModel.php");
 include_once("model/RegistroModel.php");
 include_once("model/IniciarSesionModel.php");
+include_once("model/AdminModel.php");
+
 
 
 include_once('third-party/mustache/src/Mustache/Autoloader.php');
@@ -34,6 +37,10 @@ class Configuration
 
     public function getIniciarSesionController(){
         return new IniciarSesionController(new IniciarSesionModel($this->getDatabase()), $this->getRenderer());
+    }
+
+    public function getAdminController(){
+        return new AdminController(new AdminModel($this->getDatabase()), $this->getRenderer());
     }
 
     private function getRenderer()

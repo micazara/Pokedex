@@ -1,1 +1,41 @@
 <p>hola, iniciaste sesion como un user comun</p>
+{{#sesionOk}}
+{{sesionOk}}
+{{/sesionOk}}
+<div>
+    <form action="/home/buscar" method="get">
+
+        <label for="campoABuscar">Ingresá id, nombre o tipo de un pokemon: </label>
+        <input type="text" name="campoABuscar" id="campoABuscar">
+
+        <label for="busqueda"></label>
+        <input type="submit" name="busqueda" value="Buscar">
+    </form>
+</div>
+<div class="contenedor_pokemon" style="padding: 50px">
+    {{#pokemon}}
+    <div class="">
+        <div class="caja_individual">
+            <p class="campo_del_pokemon">ID: </p>
+            {{id}}
+        </div>
+
+        <div class="caja_individual">
+            <p class="campo_del_pokemon">Nombre: </p>
+            {{nombre}}
+        </div>
+
+        <div class="caja_individual">
+            <p class="campo_del_pokemon">Tipo </p>
+            <img src='{{tipo}}'>
+        </div>
+
+
+        <div class="caja_individual">
+            <img src='{{imagen}}'>
+        </div>
+    </div>
+
+    {{/pokemon}}
+
+</div>
