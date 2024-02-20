@@ -1,0 +1,179 @@
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'chauu' && pw = 'pw'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'chauu' && pw = 'pw'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'chauu' && pw = 'pw'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'chauu' && pw = '123!k'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'dfhdfh' && pw = 'dfgdf'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'fghfgh' && pw = 'ghfgh'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'hfgh' && pw = 'fhfgh'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1324'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1324'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-20][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-20][INFO]Ejecutando query: SELECT * FROM POKEMON

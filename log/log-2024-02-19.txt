@@ -1,0 +1,11 @@
+[2024-02-19][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-19][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-19][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-19][INFO]Ejecutando query: SELECT * FROM usuario WHERE nombreUser = 'franklin'
+[2024-02-19][INFO]Ejecutando query: INSERT INTO usuario(nombreUser, pw, rol) VALUES ('franklin', '132!mica', 'c')
+[2024-02-19][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-19][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-19][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-19][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-19][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-19][INFO]Ejecutando query: SELECT * FROM POKEMON

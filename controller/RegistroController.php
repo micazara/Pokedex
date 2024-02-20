@@ -10,7 +10,7 @@ class RegistroController
         $this->renderer = $renderer;
     }
 
-    public function mostrarVista()
+    public function show()
     {
         $this->renderer->render("registro");
     }
@@ -24,7 +24,7 @@ class RegistroController
                 $pw = $_POST["pw"];
                 $this->registrarNuevoUsuario($nombreUser, $pw);
             } else {
-                $data["error"] = "Los campos no puede estar vacíos";
+                $data["error"] = "Los campos no pueden estar vacíos";
                 $this->renderer->render("registro", $data);
             }
         }

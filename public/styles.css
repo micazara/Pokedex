@@ -46,11 +46,11 @@ a {
     padding-right: 3px;
 }
 
-header{
+header {
     margin: 0;
 }
 
-.formRegistro{
+.form {
     display: flex;
     justify-content: center;
     align-items: center;

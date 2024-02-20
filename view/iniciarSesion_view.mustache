@@ -1,0 +1,17 @@
+<section class="form">
+    <h3>Iniciar sesión</h3>
+    <form action="/iniciarSesion/procesar" method="post">
+        <label for="nombreUser" class="w3-text-blue">Usuario:</label>
+        <input type="text" name="nombreUser" id="nombreUser" class="w3-input w3-border">
+
+        <label for="pw" class="w3-text-blue">Contraseña:</label>
+        <input type="password" name="pw" id="pw" class="w3-input w3-border">
+
+        <input type="submit" value="Enviar" name="enviar">
+    </form>
+{{#error}}
+<div class="w3-panel w3-red w3-animate-bottom w3-small">
+<p>{{error}}</p>
+</div>
+{{/error}}
+</section>

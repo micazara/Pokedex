@@ -1,6 +1,7 @@
 <?php
 include_once("controller/HomeController.php");
 include_once("controller/RegistroController.php");
+include_once("controller/IniciarSesionController.php");
 
 include_once("helpers/MustacheRenderer.php");
 include_once("helpers/MySqlDatabase.php");
@@ -9,6 +10,8 @@ include_once('helpers/Logger.php');
 
 include_once("model/HomeModel.php");
 include_once("model/RegistroModel.php");
+include_once("model/IniciarSesionModel.php");
+
 
 include_once('third-party/mustache/src/Mustache/Autoloader.php');
 class Configuration
@@ -27,6 +30,10 @@ class Configuration
     public function getRegistroController()
     {
         return new RegistroController(new RegistroModel($this->getDatabase()), $this->getRenderer());
+    }
+
+    public function getIniciarSesionController(){
+        return new IniciarSesionController(new IniciarSesionModel($this->getDatabase()), $this->getRenderer());
     }
 
     private function getRenderer()
