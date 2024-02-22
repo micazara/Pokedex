@@ -70,9 +70,25 @@ class AdminController
         Redirect::to("/admin/list");
     }
 
-    public function estadisticas(){
+    public function estadisticas()
+    {
         $data["cantUsuariosLogueadoss"] = $this->adminModel->obtenerCantidadDeUsuariosLogueados();
         $data["cantPokemones"] = $this->adminModel->obtenerCantidadDePokemones();
         $this->renderer->render("estadisticas", $data);
+    }
+
+    public function filtrar()
+    {
+        if (isset($_GET["filtrar"])) {
+            if (isset($_GET["tipo"])) {
+                $tipo = $_GET["tipo"];
+                $ruta = "/public/";
+                $extension = ".png";
+                $rutaTipo = $ruta . $tipo . $extension;
+                $data["pokemon"] = $this->adminModel->filtrar($rutaTipo);
+            }
+
+            $this->renderer->render("homeLogueadoAdmin", $data);
+        }
     }
 }

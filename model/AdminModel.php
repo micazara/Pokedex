@@ -31,8 +31,13 @@ class AdminModel
         return $this->database->query2("SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1");
     }
 
-    public function obtenerCantidadDePokemones(){
+    public function obtenerCantidadDePokemones()
+    {
         return $this->database->query2("SELECT COUNT(*) FROM POKEMON");
     }
 
+    public function filtrar($tipo)
+    {
+        return $this->database->query("select * from pokemon where tipo = '$tipo'");
+    }
 }

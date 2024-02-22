@@ -1,0 +1,18 @@
+[2024-02-23][INFO]Ejecutando query: select * from pokemon where tipo ==  /public/fuego.png
+[2024-02-23][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-23][INFO]Ejecutando query: select * from pokemon where tipo = '/public/fuego.png'
+[2024-02-23][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-23][INFO]Ejecutando query: select * from pokemon where tipo = '/public/fuego.png'
+[2024-02-23][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-23][INFO]Ejecutando query: select * from pokemon where tipo = '/public/fuego.png'
+[2024-02-23][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-23][INFO]Ejecutando query: select * from pokemon where tipo = '/public/bicho.png'
+[2024-02-23][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-23][INFO]Ejecutando query: select * from pokemon where tipo = '/public/agua.png'
+[2024-02-23][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-23][INFO]Ejecutando query: select * from pokemon where tipo = '/public/agua.png'
+[2024-02-23][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-23][INFO]Ejecutando query: select * from pokemon where tipo = '/public/fuego.png'
+[2024-02-23][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-23][INFO]Ejecutando query: select * from pokemon where tipo = '/public/agua.png'
+[2024-02-23][INFO]Ejecutando query: SELECT * FROM POKEMON

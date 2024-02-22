@@ -152,3 +152,4 @@
 [2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
 [2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
 [2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
