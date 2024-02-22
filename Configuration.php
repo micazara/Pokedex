@@ -8,6 +8,7 @@ include_once("helpers/MustacheRenderer.php");
 include_once("helpers/MySqlDatabase.php");
 include_once("helpers/Router.php");
 include_once('helpers/Logger.php');
+include_once('helpers/Redirect.php');
 
 include_once("model/HomeModel.php");
 include_once("model/RegistroModel.php");
@@ -35,11 +36,13 @@ class Configuration
         return new RegistroController(new RegistroModel($this->getDatabase()), $this->getRenderer());
     }
 
-    public function getIniciarSesionController(){
+    public function getIniciarSesionController()
+    {
         return new IniciarSesionController(new IniciarSesionModel($this->getDatabase()), $this->getRenderer());
     }
 
-    public function getAdminController(){
+    public function getAdminController()
+    {
         return new AdminController(new AdminModel($this->getDatabase()), $this->getRenderer());
     }
 

@@ -1,22 +1,39 @@
 {{#sesionOk}}
-{{sesionOk}}
+<div>
+<h1 class="w3-center w3-padding-16 ">{{sesionOk}}</h1>
+</div>
 {{/sesionOk}}
 
-<div>
-    <form action="/home/buscar" method="get">
+<section class="opciones">
+    <div>
+        <form action="/home/buscar" method="get">
+            <label for="campoABuscar">Ingresá id, nombre o tipo de un pokemon: </label>
+            <input type="text" name="campoABuscar" id="campoABuscar" class="w3-medium">
+            <label for="busqueda"></label>
+            <input type="submit" name="busqueda" value="Buscar" class="w3-button w3-blue w3-small">
+        </form>
+    </div>
 
-        <label for="campoABuscar">Ingresá id, nombre o tipo de un pokemon: </label>
-        <input type="text" name="campoABuscar" id="campoABuscar">
+    <div>
+        <a href="/admin/showAlta" class="w3-button w3-blue w3-small">Dar de alta un pokemon</a>
+        <a href="/admin/estadisticas" class="w3-button w3-blue w3-small">Ver estadísticas</a>
+        <div class="caja_individual">
+        <form action="/admin/filtrar" method="get">
+        <label for="tipo">Seleccioná el tipo de pokémon</label>
+        <select name="tipo" id="tipo">
+        <option value="agua">Agua</option>
+        <option value="bicho">Bicho</option>
+        <option value="fuego">Fuego</option>
+        <option value="planta">Planta</option>
+        </select>
+        <input type="submit" name="filtrar" value="Filtrar">
+        </form>
+        </div>
+        
+        <a href="/iniciarSesion/cerrarSesion" class="w3-button w3-white w3-border w3-border-red w3-small">Cerrar sesión</a>
+    </div>
 
-        <label for="busqueda"></label>
-        <input type="submit" name="busqueda" value="Buscar">
-    </form>
-</div>
-
-<a href="/admin/alta" class="w3-button w3-blue w3-small">Dar de alta un pokemon</a>
-<a href="/admin/baja" class="w3-button w3-blue w3-small">Dar de baja un pokemon</a>
-<a href="/iniciarSesion/cerrarSesion" class="w3-button w3-blue w3-small">Cerrar sesion</a>
-
+</section>
 <div class="contenedor_pokemon" style="padding: 50px">
     {{#pokemon}}
     <div class="">
@@ -26,7 +43,7 @@
         </div>
 
         <div class="caja_individual">
-            <p class="campo_del_pokemon">Nombre: </p>+
+            <p class="campo_del_pokemon">Nombre: </p>
             {{nombre}}
         </div>
 
@@ -37,8 +54,13 @@
 
 
         <div class="caja_individual">
-            <img src='{{imagen}}'>
+            <img src='{{imagen}}' style="width: 150; height: 150px;">
         </div>
+
+        <div class="caja_individual w3-padding-24">
+            <a href="/admin/borrar/id={{id}}" class="w3-button w3-red w3-small">Borrar</a>
+        </div>
+
     </div>
 
     {{/pokemon}}

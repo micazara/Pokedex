@@ -1,0 +1,154 @@
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a'
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a'
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a'
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a'
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a'
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a'
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a'
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) AS cantidad FROM usuario WHERE rol != 'a' limit 1
+[2024-02-22][INFO]Ejecutando query: SELECT COUNT(*) FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: insert into pokemon (nombre, tipo, imagen) values ('Franco', '/public/fuego.png', '/public/img_pokemons/pikachu.jpg')
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON WHERE id = 'fuego' OR nombre LIKE '%fuego%' OR tipo LIKE '%fuego%'
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: select * from usuario where nombreUser = 'mica' && pw = '1234'
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON
+[2024-02-22][INFO]Ejecutando query: SELECT * FROM POKEMON

@@ -21,7 +21,8 @@ class MySqlDatabase
         mysqli_close($this->connection);
     }
 
-    public function getConnection(){
+    public function getConnection()
+    {
         return $this->connection;
     }
 
@@ -33,12 +34,20 @@ class MySqlDatabase
         return mysqli_fetch_all($result, MYSQLI_BOTH);
     }
 
+    // para consultas que no devuelven un conjunto de resultados
     public function execute($sql)
-    { 
+    {
         Logger::info('Ejecutando query: ' . $sql);
-        mysqli_query($this->connection, $sql);
+        return mysqli_query($this->connection, $sql);
+    }
+
+    public function query2($sql)
+    {
+        Logger::info('Ejecutando query: ' . $sql);
+        $result = mysqli_query($this->connection, $sql);
+        $row = mysqli_fetch_row($result);
+        return $row[0]; // Devolver el primer valor de la primera fila
     }
 
 
-    
 }

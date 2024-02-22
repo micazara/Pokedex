@@ -1,0 +1,31 @@
+<section class="form">
+<h3>Dar de alta un pokemon</h3>
+        <form action="/admin/procesarAlta" method="post" enctype="multipart/form-data">
+
+            <label for="nombre" class="w3-text-blue">Nombre: </label>
+            <input type="text" name="nombre" id="nombre" class="w3-input w3-border">
+
+            <label for="tipo" class="w3-text-blue">Tipo: </label>
+            <input type="text" name="tipo" id="tipo" class="w3-input w3-border">
+
+            <label for="imagen" class="w3-text-blue">Imagen: </label>
+            <input type="file" name="imagen" id="imagen" class="w3-input w3-border">
+
+            <input type="submit" name="enviar" id="enviar" value="Enviar">        
+            </form>
+
+</section>
+
+{{#altaOk}}
+<div class="w3-panel w3-green w3-animate-bottom w3-small">
+<p>{{altaOk}}</p>
+<a href="/admin/list">Volver</a>
+</div>
+{{/altaOk}}
+
+{{#error}}
+<div class="w3-panel w3-red w3-animate-bottom w3-small">
+<p>{{error}}</p>
+</div>
+{{/error}}
+

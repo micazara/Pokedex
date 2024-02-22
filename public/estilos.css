@@ -29,10 +29,11 @@ a {
     border: 2px solid #2196F3;
 }
 
-.contenedor_pokemon img {
+/* .contenedor_pokemon img {
     max-width: 100%;
-    /* Para que las imágenes no excedan el ancho de su contenedor */
-}
+    /* Para que las imágenes no excedan el ancho de su contenedor
+} 
+*/
 
 .caja_individual {
     display: flex;
@@ -55,4 +56,20 @@ header {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+
+.opciones {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.estadisticas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 25px;
 }
