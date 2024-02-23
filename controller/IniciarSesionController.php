@@ -30,18 +30,24 @@ class IniciarSesionController
                             // Las credenciales son válidas
                             $credencialesValidas = true;
                             // Iniciar sesión
-                            $this->iniciarSesion($nombreUser, $pw);
-                            // Redirigir según el rol
-                            if ($fila["rol"] === 'c') {
-                                $data["sesionOk"] = "Bienvenido, " . $_SESSION["nombreUser"];
-                                $data["pokemon"] = $this->iniciarSesionModel->getPokemons();
-                                $this->renderer->render("homeLogueadoUsuarioComun", $data);
+                            $sesionIniciada = $this->iniciarSesion($nombreUser, $pw);
+                            var_dump("sesion iniciada: " . $sesionIniciada);
+                            if ($sesionIniciada) {
+                                // Redirigir según el rol
+                                if ($fila["rol"] === 'c') {
+                                    $data["sesionOk"] = "Bienvenido, " . $_SESSION["nombreUser"];
+                                    $data["pokemon"] = $this->iniciarSesionModel->getPokemons();
+                                    $this->renderer->render("homeLogueadoUsuarioComun", $data);
 
-                            } elseif ($fila["rol"] === 'a') {
-                                $data["sesionOk"] = "Bienvenido administrador, " . $_SESSION["nombreUser"];
-                                $data["pokemon"] = $this->iniciarSesionModel->getPokemons();
-                                $this->renderer->render("homeLogueadoAdmin", $data);
+                                } elseif ($fila["rol"] === 'a') {
+                                    $data["sesionOk"] = "Bienvenido administrador, " . $_SESSION["nombreUser"];
+                                    $data["pokemon"] = $this->iniciarSesionModel->getPokemons();
+                                    $this->renderer->render("homeLogueadoAdmin", $data);
+                                }
+                            } else {
+                                $data["error"] = "Error al iniciar sesión";
                             }
+
                         }
                     }
                     // Si las credenciales no coinciden con ningún registro en la base de datos
@@ -65,10 +71,39 @@ class IniciarSesionController
 
     public function iniciarSesion($nombreUser, $pw)
     {
-        session_start();
-        $_SESSION["nombreUser"] = $nombreUser;
-        $_SESSION["pw"] = $pw;
+        if (session_status() === PHP_SESSION_NONE) {
+            session_start();
+            $_SESSION["nombreUser"] = $nombreUser;
+            $_SESSION["pw"] = $pw;
+            var_dump(session_status());
+            return true;
+        }
+
+        if (session_status() === PHP_SESSION_ACTIVE) {
+            $_SESSION["nombreUser"] = $nombreUser;
+            $_SESSION["pw"] = $pw;
+            return true;
+        } else {
+            return false;
+        }
     }
+
+    public function cerrarSesion()
+    {
+        session_start(); // Iniciar la sesión
+
+        if (session_status() === PHP_SESSION_ACTIVE) {
+            session_destroy();
+            Redirect::root();
+        } else {
+            echo "La sesión no está activa o iniciada";
+        }
+
+    }
+
+
+
+
 
 
 

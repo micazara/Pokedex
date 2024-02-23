@@ -9,6 +9,7 @@ class AdminController
     {
         $this->adminModel = $adminModel;
         $this->renderer = $renderer;
+        session_start();
     }
 
     public function list()
