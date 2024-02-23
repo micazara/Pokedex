@@ -31,8 +31,7 @@ class IniciarSesionController
                             $credencialesValidas = true;
                             // Iniciar sesión
                             $sesionIniciada = $this->iniciarSesion($nombreUser, $pw);
-                            var_dump("sesion iniciada: " . $sesionIniciada);
-                            if ($sesionIniciada) {
+                            if ($sesionIniciada === PHP_SESSION_ACTIVE) {
                                 // Redirigir según el rol
                                 if ($fila["rol"] === 'c') {
                                     $data["sesionOk"] = "Bienvenido, " . $_SESSION["nombreUser"];
@@ -71,40 +70,16 @@ class IniciarSesionController
 
     public function iniciarSesion($nombreUser, $pw)
     {
-        if (session_status() === PHP_SESSION_NONE) {
-            session_start();
-            $_SESSION["nombreUser"] = $nombreUser;
-            $_SESSION["pw"] = $pw;
-            var_dump(session_status());
-            return true;
-        }
 
-        if (session_status() === PHP_SESSION_ACTIVE) {
-            $_SESSION["nombreUser"] = $nombreUser;
-            $_SESSION["pw"] = $pw;
-            return true;
-        } else {
-            return false;
-        }
+        $_SESSION["nombreUser"] = $nombreUser;
+        $_SESSION["pw"] = $pw;
+        return session_status();
     }
 
     public function cerrarSesion()
     {
-        session_start(); // Iniciar la sesión
-
-        if (session_status() === PHP_SESSION_ACTIVE) {
-            session_destroy();
-            Redirect::root();
-        } else {
-            echo "La sesión no está activa o iniciada";
-        }
-
+        session_destroy();
+        Redirect::root();
     }
-
-
-
-
-
-
 
 }
